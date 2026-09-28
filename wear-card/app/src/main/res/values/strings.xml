@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TapWatch</string>
+    <string name="hce_service_description">Abhijith digital contact card</string>
+    <string name="hce_aid_group">TapWatch NDEF handoff</string>
+</resources>
